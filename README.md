@@ -12,7 +12,7 @@
  
  💡 Monetary: It is the monetary values that customers leave with us. 
 * RFM Metrics: These metrics have a comparison problem between each other. Since the RFM metrics cannot be compared both within themselves and with each other, RFM metrics are converted into RFM scores.
-* RFM Scores: When we convert to RFM scores, expressing all of them in the same type is a kind of standardization process. We bring them all together as strings side by side.
+* RFM Scores: When we convert to RFM scores, expressing all of them in the same type is a kind of standardization process. 
 * Creating Segments Through Scores: We can say that 555 is the best customer for us, while 111 is the worst customer. However, we create many combinations with recency, frequency and monetary and use the table below to help with meaningful segmentation. 
 
 ❗️As can be seen here, the monetary value has disappeared. Within the scope of CRM analytics, the transaction process in the communication established with our customers is more important. With a customer who is already in the process of transaction and interaction, more transactions can be carried out. Therefore, monetary value can be added.
